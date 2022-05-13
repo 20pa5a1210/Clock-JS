@@ -323,7 +323,7 @@ body {
   left: 40%;
   top: 20%;
   color: aquamarine;
-  font-size: 20rem;
+  font-size: 17rem;
   text-align: center;
   transition: var(--transition);
   cursor: pointer;
@@ -339,9 +339,9 @@ body {
 .credit{
   position: fixed;
   /* top: 280px; */
-  top: 80%;
+  top: 81%;
   text-transform: capitalize;
-  left: 37%;
+  left: 36%;
   text-align: center;
   color: rgb(127, 141, 170);
   font-size: 25px;
